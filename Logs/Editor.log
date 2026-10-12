@@ -1,0 +1,525 @@
+Unity Editor version:    6000.6.2f1 (770e33f6875c)
+Branch:                  6000.6/staging
+Build type:              Release
+Batch mode:              NO
+macOS version:           Version 26.6 (Build 25G72)
+Darwin version:          25.6.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        32768 MB
+Date:                    2026-09-23T02:02:03Z
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 1176)
+VBCSCompiler prewarm took 1.32 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-nathansyhanath" at "2026-09-23T02:02:03.548576Z"
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.6.2f1/Unity.app/Contents/MacOS/Unity
+-projectpath
+/Users/nathansyhanath/Apple Picker
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-nathansyhanath
+-hubSessionId
+e90e719f-7e29-49fe-a91e-1d60bb0505ea
+-accessToken
+ki2nl9Jy-OXL1bOxwHIlWMAuuFpTOdSbkqYJzA9a9E4001f
+Successfully changed project path to: /Users/nathansyhanath/Apple Picker
+/Users/nathansyhanath/Apple Picker
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [8437719424]  Target information:
+
+Player connection [8437719424]  * "[IP] 10.130.168.21 [Port] 55504 [Flags] 2 [Guid] 3201188675 [EditorId] 3201188675 [Version] 1048832 [Id] OSXEditor(0,Nathans-MacBook-Pro.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8437719424] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8437719424] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-1175" after 0.0 seconds.
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              8622554f5b984e5ea0e5691a9159634f
+  Correlation Id:          db706fcbaffb0d17b03be649df4931cb
+  External correlation Id: 7949770802219713082
+  Machine Id:              S9hQKts2mi0ZQNEX0bKdtvZSyxA=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-nathansyhanath" (connect: 0.00s, validation: 0.00s, handshake: 0.26s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-nathansyhanath-notifications" at "2026-09-23T02:02:03.808914Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token ki2nl9Jy-O...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 1375997708257-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.26s
+[Licensing::Module] Licensing is initialized (took 0.01s).
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: f7213949508e429638c49d15237a03a7
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052672
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+Launching Unity Data Store - /Applications/Unity/Hub/Editor/6000.6.2f1/Unity.app/Contents/Helpers/Unity.DataStore 
+Unity Data Store artifact dir = Library/DataStore, working dir = /Users/nathansyhanath/Apple PickerSerialized file "ProjectSettings/DynamicsManager.asset" contains a PhysicsManager object at version 11, below the supported minimum (13). Open and re-save the file to upgrade.
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Unity Data Store running and initialised
+Initialize engine version: 6000.6.2f1 (770e33f6875c)
+[EntityIdStore] init: VM path (explicit commit), pageSize=16384, blockCount=262144, entitiesPerBlock=1024, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.6.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/nathansyhanath/Apple Picker/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+ preferred device: Apple M5 (high power)
+Metal devices available: 1
+0: Apple M5 (high power)
+Using device Apple M5 (high power)
+Initializing Metal device caps: Apple M5
+Mac GPU Family: 2
+Apple GPU Family: 9
+MSL Version: 3.0
+Has Float MSAA: 1
+Has Float Filtering: 1
+ReadWrite Texture Tier: 2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.6.2f1/Unity.app/Contents/Resources/Scripting/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.6.2f1/Unity.app/Contents/Resources/Scripting/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = '/Applications/Unity/Hub/Editor/6000.6.2f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.6.2f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56175
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.2f1/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000782 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.509 seconds
+Domain Reload Profiling: 789ms
+	BeginReloadAssembly (82ms)
+		CreateAndSetChildDomain (18ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (158ms)
+		LoadAssemblies (65ms)
+		TypeCache.Refresh (117ms)
+			TypeCache.ScanAssembly (108ms)
+		AnalyzeDomain (0ms)
+	FinalizeReload (509ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (45ms)
+			ProcessInitializeOnLoadAttributes (43ms)
+			ProcessInitializeOnLoadMethodAttributes (318ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 52 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.collab-proxy@2.13.6 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4)
+    com.unity.ide.rider@3.0.38 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.ide.rider@1f60b3138684)
+    com.unity.ide.visualstudio@2.0.26 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.20.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.inputsystem@7a4e1a2a8194)
+    com.unity.visualscripting@1.9.12 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.visualscripting@4edfcc09512f)
+    com.unity.performance.profile-analyzer@1.4.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.performance.profile-analyzer@2bb26871883c)
+    com.unity.testtools.codecoverage@1.3.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.testtools.codecoverage@19a841221620)
+    com.unity.settings-manager@2.1.1 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.settings-manager@0b8638c5ce86)
+  Built-in packages:
+    com.unity.feature.development@1.0.2 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.feature.development@767aadbc6eb7)
+    com.unity.timeline@6.6.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.timeline@c56d56b0070b)
+    com.unity.ugui@2.6.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.ugui@0f30cee369f3)
+    com.unity.modules.accessibility@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.terrainphysics)
+    com.unity.modules.tetgen@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.tetgen)
+    com.unity.modules.tilemap@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.tilemap)
+    com.unity.modules.timelinefoundation@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.test-framework@1.8.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.test-framework@7a3849e09bd0)
+    com.unity.ext.nunit@2.1.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.ext.nunit@0198eae3b53e)
+    com.unity.editorcoroutines@6.6.0 (location: /Users/nathansyhanath/Apple Picker/Library/PackageCache/com.unity.editorcoroutines@8cd72baa102a)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.00 seconds
+Starting: /Applications/Unity/Hub/Editor/6000.6.2f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Users/nathansyhanath/Apple Picker
+ExitCode: 0 Duration: 0s130ms
+[425/531    0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.12 seconds), 1 items updated, 531 evaluated
+AssetDatabase: script compilation time: 0.519616s
+Total cache size 55195700
+Total cache size after purge 55195700, took 00:00:00.0405631
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.293 seconds
+Domain Reload Profiling: 616ms
+	BeginReloadAssembly (90ms)
+		DisableScriptedObjects (7ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (16ms)
+	LoadAllAssembliesAndSetupDomain (207ms)
+		LoadAssemblies (99ms)
+		TypeCache.Refresh (71ms)
+			TypeCache.ScanAssembly (65ms)
+		AnalyzeDomain (17ms)
+			BuildScriptInfoCaches (15ms)
+	FinalizeReload (293ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (45ms)
+			ProcessInitializeOnLoadAttributes (125ms)
+			ProcessInitializeOnLoadMethodAttributes (17ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Starting new worker id: 0 with log in /Users/nathansyhanath/Apple Picker/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=b3eaed43063f74b91a8e04c8b55bc3d2): Total: 1.459 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=570 ms
+		Asset DB Callback time: managed=12 ms, native=4 ms
+		Scripting: domain reloads=1, domain reload time=334 ms, compile time=521 ms, other=14 ms
+		Project Asset Count: scripts=839, non-scripts=973
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokePackagesCallback: 5.129ms
+	ApplyChangesToAssetFolders: 0.143ms
+	Scan: 180.369ms
+	Collect global state as custom dependencies: 2.861ms
+	CategorizeScriptCompilationAssets: 22.348ms
+	ProcessAssetsWithTransientArtifactChanges: 17.741ms
+	CategorizeAssets: 9.311ms
+	CompileScripts: 520.726ms
+	ImportOutOfDateAssets: 297.221ms (296.016ms without children)
+		UnloadImportedAssets: 0.110ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.156ms
+		ImportSchedulerStart: 0.938ms
+	PostProcessAllAssets: 12.987ms
+		MonoPostProcessAllAssets: 12.965ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 4.200ms
+			SyncVS.PostprocessSyncProject 4.121ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.329ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 0.291ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.108ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.092ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.074ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.063ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.058ms
+	UnloadStreamsBegin: 0.645ms
+	GenerateScriptTypeHashes: 0.721ms
+	GenerateScriptTypeSerializationHashes: 1.697ms
+	Untracked: 388.348ms
+
+Application.AssetDatabase Initial Refresh End
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.2f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Scanning for USB devices : 0.018ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Apple Picker
+2026-09-22 19:02:06.614 Unity[1175:17173] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x920fba8a0 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            13.577 ms
+	Integration:            21.260 ms
+	Integration of assets:  1.500 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   36.343 ms
+Unloading 4321 unused Assets / (0.5 MB). Loaded Objects now: 5147.
+Memory consumption went from 197.9 MB to 197.4 MB.
+Total: 4.999666 ms (FindLiveObjects: 0.327584 ms CreateObjectMapping: 0.114917 ms MarkObjects: 3.200292 ms  DeleteObjects: 1.243833 ms)
+
+[LAYOUT] About to load UserSettings/Layouts/default-6000.dwlt, keepMainWindow=False
+[LAYOUT] About to save layout /Users/nathansyhanath/Apple Picker/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/nathansyhanath/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+This project uses Input Manager, which is marked for deprecation. To manage input in your project, use the <a href="https://docs.unity3d.com/Packages/com.unity.inputsystem@latest">Input System package</a> instead.
+[Project] Loading completed in 3.524 seconds
+	Project init time: 				0.000 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.000 seconds
+		Asset Database init time: 		0.000 seconds
+		Global illumination init time: 	0.000 seconds
+		Assemblies load time: 			0.000 seconds
+		Unity extensions init time: 	0.000 seconds
+		Asset Database refresh time: 	0.000 seconds
+	Scene opening time: 			0.000 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1790128927070,"processId":1175,"projectLoad":3.524314833,"projectInit":0.0,"templateInit":0.0,"packageManagerInit":0.0,"assetDatabaseInit":0.0,"globalIlluminationInit":0.0,"assembliesLoad":0.0,"unityExtensionsInit":0.0,"assetDatabaseRefresh":0.0,"sceneOpening":0.0}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1790128927070,"processId":1175,"editorVersion":"6000.6.2f1 (770e33f6875c)","branch":"6000.6/staging","buildType":"Release","platform":"OSX"}
+Subscribe to USB device events
+Worker ready: AssetImportWorkerHW0 0
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+Created GICache directory at /Users/nathansyhanath/Library/Caches/com.unity3d.UnityEditor/GiCache. Took: 0.005s, timestamps: [3.533 - 3.538]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "ki2nl9Jy"... (expires: 2026-09-23T02:21:38Z)
+UPID Received '287ef3b2-37dd-429a-9463-976fa1bf0cb4'.
+Thread 0x423b87000 may have been prematurely finalized
+<CFData 0x92c246d50 [0x1f85693c8]>{length = 6, capacity = 6, bytes = 0x80d1ce212cac}
+Reloading assemblies for play mode.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.605 seconds
+Domain Reload Profiling: 917ms
+	BeginReloadAssembly (225ms)
+		DisableScriptedObjects (33ms)
+		CreateAndSetChildDomain (145ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (62ms)
+		LoadAssemblies (28ms)
+		TypeCache.Refresh (4ms)
+		AnalyzeDomain (2ms)
+	FinalizeReload (605ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (138ms)
+			ProcessInitializeOnLoadMethodAttributes (14ms)
+		AwakeInstancesAfterBackupRestoration (251ms)
+No restricted APIs configured; Validation skipped.
+Checking 14 assemblies for restricted APIs found 0 usage(s) in 1 ms
+
+Asset Pipeline Refresh (id=e502c36ff35064cb7a42435271d799ae): Total: 1.178 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=673 ms
+		Asset DB Callback time: managed=129 ms, native=52 ms
+		Scripting: domain reloads=1, domain reload time=320 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=839, non-scripts=973
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 0.429ms
+	ApplyChangesToAssetFolders: 0.094ms
+	Collect global state as custom dependencies: 0.170ms
+	ProcessAssetsWithTransientArtifactChanges: 40.885ms
+	CategorizeAssets: 6.329ms
+	CompileScripts: 0.827ms
+	ImportOutOfDateAssets: 607.445ms (606.705ms without children)
+		CollectScriptTypesHashes: 0.122ms
+		ReloadNativeAssets: 0.087ms
+		UnloadImportedAssets: 0.411ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.129ms
+		ImportSchedulerStart: 0.106ms
+	PostProcessAllAssets: 176.115ms
+		PostprocessAssetsUpdateCachedIcon 5.023ms
+		PostProcessCallbackCreateDeferredMaterials 4.416ms
+		AssemblyValidation.PostprocessAllAssets 3.698ms
+		ShaderAssetModifiedCallback 2.871ms
+		RaytracingShaderImportPostprocess 2.655ms
+		ComputeShaderImportPostprocess 2.530ms
+		SpeedTreeImporter.PostprocessAllAssets 2.093ms
+		LocalizationDatabase.AssetDatabasePostprocessCallback 1.142ms
+		BlockShaderImporter.PostprocessAllAssets 1.104ms
+		XRBuildSystem.XRAssetImported 0.052ms
+		MonoPostProcessAllAssets: 128.522ms
+			SyncVS.PostprocessSyncProject 71.629ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 11.297ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 11.293ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 9.776ms
+			AssetPostprocessor.OnPostprocessAllAssets 6.523ms
+			AssetChangedListener.OnPostprocessAllAssets 4.491ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 2.645ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 1.886ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 0.794ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 0.739ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.415ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.199ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.174ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.158ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.123ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.117ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.107ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.099ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.097ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.097ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.097ms
+			AssetEvents.OnPostprocessAllAssets 0.074ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.055ms
+	PostAssetChangesProfiler: 6.230ms
+	UnloadStreamsBegin: 0.463ms
+	GenerateScriptTypeHashes: 0.611ms
+	GenerateScriptTypeSerializationHashes: 1.415ms
+	Untracked: 337.235ms
+
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.840 ms
+	Integration:            151.653 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.005 ms
+	Total Operation Time:   152.499 ms
+UnassignedReferenceException: The variable basketPrefab of ApplePicker has not been assigned.
+You probably need to assign the basketPrefab variable of the ApplePicker script in the inspector. Parameter name: data
+  at UnityEngine.Object+MarshalledUnityObject.TryThrowEditorNullExceptionObject (UnityEngine.Object unityObj, System.String parameterName) [0x000b6] in /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/UnityEngineObject.bindings.cs:1184 
+  at UnityEngine.Bindings.ThrowHelper.ThrowArgumentNullException (System.Object obj, System.String parameterName) [0x0000a] in /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/BindingsHelpers.cs:13 
+  at UnityEngine.Object.Internal_CloneSingle (UnityEngine.Object data) [0x00015] in <cce03e4de35d4f57b106bbaaa3643932>:0 
+  at UnityEngine.Object.Instantiate[T] (T original) [0x00010] in /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/UnityEngineObject.bindings.cs:688 
+  at ApplePicker.Start () [0x0000f] in /Users/nathansyhanath/Apple Picker/Assets/ApplePicker.cs:18 
+UnityEngine.StackTraceUtility:ExtractStringFromExceptionInternal(Object, String&, String&) (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:50)
+
+(Filename: /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/UnityEngineObject.bindings.cs Line: 1184)
+
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Thread 0x4077bf000 may have been prematurely finalized
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Temp/__Backupscenes/0.backup'
+	Deserialize:            0.768 ms
+	Integration:            9.141 ms
+	Integration of assets:  0.001 ms
+	Thread Wait Time:       0.009 ms
+	Total Operation Time:   9.918 ms
+Unloading 4071 unused Assets / (18.8 MB). Loaded Objects now: 6234.
+Memory consumption went from 280.5 MB to 261.7 MB.
+Total: 16.078416 ms (FindLiveObjects: 0.253083 ms CreateObjectMapping: 0.092875 ms MarkObjects: 13.781750 ms  DeleteObjects: 1.885417 ms)
+
+TrimDiskCacheJob: Current cache size 0mb
+Asset Pipeline Refresh (id=d8bc1a08e425b4ccab76ececc2f6cd0a): Total: 0.044 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "whTnU0uP"... (expires: 2026-09-23T04:20:43Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+MonoPathRemapper: Attempts to remap: 20505; Successful remaps: 11096
+Thread 0x4232af000 may have been prematurely finalized
+Serialized file version minimum: 23, current 23
+[LAYOUT] About to save layout /Users/nathansyhanath/Apple Picker/UserSettings/Layouts/default-6000.dwlt
+[LAYOUT] About to save layout /Users/nathansyhanath/Library/Preferences/Unity/Editor-5.x/Layouts/current/default-6000.dwlt
+Thread 0x16cc0f000 may have been prematurely finalized
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+Shutting down MSBuild server...
+Shutting down VB/C# compiler server...
+VB/C# compiler server shut down successfully.
+Thread 0x17cd47000 may have been prematurely finalized
+Thread 0x17cf77000 may have been prematurely finalized
+Thread 0x17ce5f000 may have been prematurely finalized
+Thread 0x17d003000 may have been prematurely finalized
+Thread 0x17d1a7000 may have been prematurely finalized
+Thread 0x17d11b000 may have been prematurely finalized
+Thread 0x17cdd3000 may have been prematurely finalized
+Thread 0x17d08f000 may have been prematurely finalized
+Thread 0x17ceeb000 may have been prematurely finalized
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-nathansyhanath-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-nathansyhanath channel disconnected successfully.
+MSBuild server shut down successfully.
+Shut down UDS service system complete
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+debugger-agent: Unable to listen on 91
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1790132152806,"processId":1175,"allocatedMemory":8885038,"memoryLabels":[{"Default":195003},{"Permanent":15672},{"Thread":1056736},{"Manager":25878},{"VertexData":8},{"Geometry":408},{"Shader":855290},{"Material":68},{"TextureCache":1216},{"GfxDevice":42920},{"GfxThread":2240},{"Animation":968},{"Audio":1336},{"FreeType":8},{"FontEngine":736},{"Physics":2002},{"Physics2D":16},{"Serialization":33688},{"Input":43216},{"JobScheduler":448},{"TextLib":16875},{"Mono":56},{"ScriptingNativeRuntime":155024},{"BaseObject":49672},{"Resource":1028},{"Renderer":2448},{"Transform":4693},{"File":13519},{"WebCam":32},{"Culling":32},{"Terrain":11346},{"Wind":24},{"String":581657},{"StaticString":3808},{"Utility":2692032},{"PoolAlloc":1960},{"AI":80},{"TypeTree":17293},{"ScriptManager":18984},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7240},{"Director":8288},{"CloudService":8448},{"WebRequest":5640},{"VR":49426},{"SceneManager":616},{"Video":2112},{"LazyScriptCache":32},{"NativeArray":1872},{"Camera":1177},{"Secure":9865},{"SerializationCache":9704},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57504},{"StaticSafetyDebugInfo":278528},{"Baselib":16},{"Analytics":568},{"Hierarchy":1492},{"UIElements":40},{"CoreStats":14536},{"Identifiers":7152},{"Gui":13057},{"EditorUtility":78914},{"VersionControl":8},{"Undo":939},{"AssetDatabase":2402890},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":41577},{"Upm":1788},{"UpmDiagnostics":8},{"AssetCompliance":96},{"DrivenProperties":72},{"HubClient":848},{"LocalIPC":213},{"ProfilerEditor":9738},{"CoreBusinessMetrics":3205},{"Windowing":416},{"Licensing":992},{"AssetReference":32},{"IPCStream":7003}]}
